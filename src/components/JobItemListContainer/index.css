@@ -1,0 +1,53 @@
+.bg-container-job-item-list-container {
+  width: 65%;
+  padding: 10px;
+}
+.input-container-job-item-list-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.search-button {
+  background-color: #272727;
+  color: #f1f5f9;
+  height: 35px;
+  border-left: none;
+  border-right-color: #b6c5ff;
+  border-bottom-color: #b6c5ff;
+  border-top-color: #b6c5ff;
+  border-width: 1px;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-right-style: solid;
+  width: 38px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+.search-input {
+  background-color: transparent;
+  width: 40%;
+  height: 35px;
+  border-right: none;
+  border-left-color: #b6c5ff;
+  border-bottom-color: #b6c5ff;
+  border-top-color: #b6c5ff;
+  border-width: 1px;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  outline: none;
+  color: #f1f5f9;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+.job-unordered-list-container {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.loader-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+}

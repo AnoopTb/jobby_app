@@ -1,0 +1,47 @@
+.bg-container-navbar {
+  background-color: #272727;
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+}
+.bg-link-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  align-items: center;
+  list-style: none;
+  margin: 0px;
+}
+.img-logo-navbar {
+  height: 30px;
+  width: 70px;
+}
+.link-container-navbar {
+  display: flex;
+}
+.home-link-navbar {
+  font-size: 16px;
+  text-decoration: none;
+  color: #f1f5f9;
+  padding-right: 20px;
+  font-weight: bold;
+}
+.job-link-navbar {
+  font-size: 16px;
+  text-decoration: none;
+  color: #f1f5f9;
+  font-weight: bold;
+}
+.logout-button-navbar {
+  border-radius: 6px;
+  background-color: #4f46e5;
+  border: none;
+  color: #ffffff;
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+}

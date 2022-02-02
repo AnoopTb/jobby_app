@@ -1,0 +1,106 @@
+.link-change {
+  text-decoration: none;
+}
+.bg-container-job-Item-Card {
+  background-color: #272727;
+  width: 100%;
+  height: 230px;
+  border-radius: 14px;
+  padding: 14px;
+  margin-bottom: 10px;
+  list-style: none;
+}
+.card1-company-logo-rating-container-job-Item-Card {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.company-logo-job-Item-Card {
+  width: 40px;
+  height: 40px;
+}
+.job-rating-container-job-Item-Card {
+  margin-left: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.job-heading-job-Item-Card {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #f1f5f9;
+  margin-top: 0px;
+  margin-bottom: 1px;
+}
+.rating-container-job-Item-Card {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 20px;
+}
+.rating-logo-job-Item-Card {
+  color: #fbbf24;
+  background-color: transparent;
+  width: 20px;
+  height: 20px;
+  padding-right: 8px;
+  margin: 0px;
+}
+.rating-value-job-Item-Card {
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #f1f5f9;
+  margin: 0px;
+  padding-top: 2px;
+}
+
+.card2-container-location-lpa-job-Item-Card {
+  display: flex;
+  justify-content: space-between;
+}
+.location-type-container-job-Item-Card {
+  display: flex;
+}
+.location-logo-job-Item-Card {
+  color: #f1f5f9;
+  height: 18px;
+  width: 18px;
+  margin-right: 5px;
+}
+.location-para-job-Item-Card {
+  color: #f1f5f9;
+  font-size: 12px;
+  font-family: 'Roboto';
+  margin: 0px;
+  margin-right: 10px;
+}
+.lpa-para-job-Item-Card {
+  color: #f1f5f9;
+  font-size: 16px;
+  font-family: 'Roboto';
+  margin: 0px;
+  font-weight: bold;
+}
+.cross-line-job-Item-Card {
+  width: 100%;
+  height: 1px;
+  background-color: #475569;
+  border: none;
+}
+
+.heading-card3-job-Item-Card {
+  color: #f1f5f9;
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.para-card3-job-Item-Card {
+  color: #f1f5f9;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
